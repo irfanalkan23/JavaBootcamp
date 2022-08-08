@@ -113,5 +113,10 @@ Custom Methods: Fuction
 Method overloading: multiple different methods sharing the same method name
 
 
+Class & Object: Class is a template of objects, where all objects came from
+
+
+
+
 
 
