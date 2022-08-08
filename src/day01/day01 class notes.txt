@@ -84,7 +84,15 @@ Loops: repeated actions
 		}
 
 
+Array: size is fixed
+	   Has Index
+	   Supports primitives & non-primitives
+	   Can be Multi-dimensional
 
+
+For Each: MUST be applied to data structures
+		  number of repeatings depend on the number of the elementsin the data structure
+		  Iteration order is fixed (beginning to the end)
 
 
 
