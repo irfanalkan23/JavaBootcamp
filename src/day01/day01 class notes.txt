@@ -49,6 +49,25 @@ Type castings:
 			2.2 Down-casting: casting larger reference type to smaller reference type
 
 
+Wrapper Classes: the objects that represents the primitives
+
+
+String: char sequences. IMMUTABLE
+			"Java"
+			new String("Java")
+
+		String Methods: charAt, length, lower & upper, substring, equals, contains, startsWith, endsWith, split, toCharARray, indexOf, lastIndexOf
+
+		==
+
+StringBuilder: char sequences. MUTABLE. Not Synchronized
+			
+			new StringBuilder("Java")
+
+StringBuffer: char sequences. MUTABLE. Synchronized
+			
+			new StringBuffer("Java")
+
 
 
 
