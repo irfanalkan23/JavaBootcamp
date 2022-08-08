@@ -10,8 +10,8 @@ Topics:
 		7. for each loop
 		8. Custom Methods
 		9. Method Overloading
-		10. Constructor
-		11. Class & Objects
+		10. Class & Objects
+		11. Constructor
 		12. Static vs Instance
 		13. Import Statements
 		14. Access Modifiers
@@ -110,7 +110,7 @@ Custom Methods: Fuction
 			Paramer:Data-Type
 
 
-
+Method overloading: multiple different methods sharing the same method name
 
 
 
