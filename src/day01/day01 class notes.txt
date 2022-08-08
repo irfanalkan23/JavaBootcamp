@@ -1,0 +1,32 @@
+Java Bootcamp Day01
+
+Topics:
+		1. Primitives: int, double, char, boolean
+		2. Primitive Type Castings: Implicit vs Explicit
+		3. Wrapper class
+		4. String
+		5. Loops: for & while
+		6. Array
+		7. for each loop
+		8. Custom Methods
+		9. Method Overloading
+		10. Constructor
+		11. Class & Objects
+		12. Static vs Instance
+		13. Import Statements
+		14. Access Modifiers
+		15. OOP Encapsulations
+		16. OOP Inheritance
+		17. Method Overriding
+		18. Final keyword
+		19. OOP Abstraction
+		20. Abstract Class vs Interface
+		21. OOP Polymorphism
+		22. Reference Type Castings: Upcasting vs DownCasting
+		23. Exceptions: checked & unchecked
+		24. Exception Handlings
+		25. final vs finally vs finalize
+		26. garbage collection & garbage collector
+		27. Collections: List, Set, Queue
+		28. Iteable & Iterator
+		29. Maps
