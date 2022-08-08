@@ -30,3 +30,27 @@ Topics:
 		27. Collections: List, Set, Queue
 		28. Iteable & Iterator
 		29. Maps
+
+Data Types:
+	1. Primitive Data Types
+			byte < short < int < long < float < double
+
+	2. Non-primitive Data Types
+
+Type castings:
+	1. Primitive Type casting (Primitives)
+
+			1.1 implicit casting: casting smaller primitive type to larger primitive type
+			1.2 explicit casting: casting larger primitive type to smaller primitive type
+
+	2. Reference Type casting (Inheritance)
+
+			2.1 Up-casting: casting smaller reference type to larger reference type
+			2.2 Down-casting: casting larger reference type to smaller reference type
+
+
+
+
+
+
+
