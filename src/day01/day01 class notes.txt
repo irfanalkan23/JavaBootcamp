@@ -69,6 +69,24 @@ StringBuffer: char sequences. MUTABLE. Synchronized
 			new StringBuffer("Java")
 
 
+Loops: repeated actions
+	
+	for loop: if the number of iteration is fixed
+
+		for(initialization; condition; Iteration ){
+				statements
+		}
+
+	while loop: if the number of iteration is NOT fixed, and we want it to be iterated until condition is false
+
+		while(Condition){
+			statements
+		}
+
+
+
+
+
 
 
 
