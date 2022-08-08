@@ -114,6 +114,29 @@ Method overloading: multiple different methods sharing the same method name
 
 
 Class & Object: Class is a template of objects, where all objects came from
+				Object is an instance of class
+
+Constructor: special method that every class must have
+			 used for creating object. can determine how the object should be created
+			 execution depdns on the object
+
+			 Acccess-Modifier  ClassName(parameters){
+
+			 }
+
+			public BasePage(){
+				 initElement(driver, this)
+			}
+
+
+			@FindBy
+
+
+			private Driver(){
+
+			}
+
+			getDriver()
 
 
 
