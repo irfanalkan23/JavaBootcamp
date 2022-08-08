@@ -1,12 +1,29 @@
 package day01;
 
 import java.time.LocalDate;
+import java.lang.String;
+
+class Car{
+    static class Tire{
+
+    }
+}
+
 
 class Person{
 
     public String name ;
     public char gender;
     public LocalDate DOB;
+
+    public static boolean isHuman;
+
+    public static String planet;
+
+    static{
+        isHuman =true;
+        planet = "Earth";
+    }
 
     public Person(String name) {
         this.name = name;
@@ -21,7 +38,6 @@ class Person{
         this(name, gender);
         this.DOB = DOB;
     }
-
 
     @Override
     public String toString() {
@@ -67,6 +83,17 @@ public class ClassAndObject {
         person4.gender = 'M';
         System.out.println(person4);
          */
+
+
+/*
+        System.out.println(person1.planet);
+        System.out.println(person2.planet);
+        System.out.println(person3.planet);
+        System.out.println(person4.planet);
+*/
+
+        System.out.println(Person.planet);
+
 
 
     }

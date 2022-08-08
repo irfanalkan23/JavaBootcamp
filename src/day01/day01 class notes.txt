@@ -118,7 +118,7 @@ Class & Object: Class is a template of objects, where all objects came from
 
 Constructor: special method that every class must have
 			 used for creating object. can determine how the object should be created
-			 execution depdns on the object
+			 execution depndns on the object
 
 			 Acccess-Modifier  ClassName(parameters){
 
@@ -137,6 +137,33 @@ Constructor: special method that every class must have
 			}
 
 			getDriver()
+
+
+static vs instance:
+		static: belongs to the class
+				there is ONLY one copy for all objects 
+
+		instance: belongs to the object
+				 there are MULTIPLE copies. each object has its own copy
+
+
+Import statements:
+		
+		regular import:
+
+			import package.Class;
+			import package.*;
+
+
+		static import:
+			import static package.Class.staticMember;
+			import static package.Class.*;
+
+
+
+
+
+
 
 
 
