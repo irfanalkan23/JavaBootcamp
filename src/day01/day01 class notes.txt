@@ -95,6 +95,22 @@ For Each: MUST be applied to data structures
 		  Iteration order is fixed (beginning to the end)
 
 
+Custom Methods: Fuction
+			grouping a series of code fragments that can perfom a task
+			improves the reusability
+
+			Acccess-Modifier  Specifier  Return-Type   methodName(Paramers){
+						code fragements that can perform the task;
+			}
+
+			Acccess-Modifier: public, protected, default, private
+			Specifier: static, final, abstract, synchronized
+			ReturnType: void, Data-Type
+			methodName: any name
+			Paramer:Data-Type
+
+
+
 
 
 
